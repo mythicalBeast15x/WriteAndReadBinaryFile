@@ -1,0 +1,3 @@
+C:/Users/ldonw/CLionProjects/WriteBinaryFile/cmake-build-debug/CMakeFiles/WriteBinaryFile.dir
+C:/Users/ldonw/CLionProjects/WriteBinaryFile/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ldonw/CLionProjects/WriteBinaryFile/cmake-build-debug/CMakeFiles/rebuild_cache.dir
