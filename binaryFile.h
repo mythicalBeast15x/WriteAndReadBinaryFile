@@ -3,10 +3,10 @@
 #define WRITEBINARYFILE_BINARYFILE_H
 #define FILENAME "myMessage"
 #define MAX_NAME_LENGTH 50
-typedef struct{
+struct Message{
     char name[MAX_NAME_LENGTH];
     char sender[MAX_NAME_LENGTH];
     char receiver[MAX_NAME_LENGTH];
 
-} Message;
+};
 #endif //WRITEBINARYFILE_BINARYFILE_H
