@@ -1,6 +1,7 @@
 
 #ifndef WRITEBINARYFILE_BINARYFILE_H
 #define WRITEBINARYFILE_BINARYFILE_H
+#define FILENAME "myMessage"
 #define MAX_NAME_LENGTH 50
 typedef struct{
     char name[MAX_NAME_LENGTH];
