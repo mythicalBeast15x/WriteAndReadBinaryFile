@@ -7,6 +7,7 @@ struct Message{
     char name[MAX_NAME_LENGTH];
     char sender[MAX_NAME_LENGTH];
     char receiver[MAX_NAME_LENGTH];
-
+    int x;
+    int y;
 };
 #endif //WRITEBINARYFILE_BINARYFILE_H
